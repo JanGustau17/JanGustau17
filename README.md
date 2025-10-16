@@ -54,4 +54,8 @@
 
 ### 🌐 Connect with Me
 📫 **Reach me on**  
-[![LinkedIn Badge](https://img.shields.io/badge/-Mukhammadali%20Yuldoshev-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://linkedin.com/in/mukhammadali-yuldoshev)
+[![LinkedIn Badge] <p align="center">
+  <a href="https://linkedin.com/in/mukhammadali-yuldoshev" target="_blank">
+    <img src="https://img.shields.io/badge/-Mukhammadali%20Yuldoshev-blue?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</p>
