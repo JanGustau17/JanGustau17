@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/JanGustau17/JanGustau17/blob/main/assets/matrix.gif?raw=true" width="420" alt="Matrix Cat Animation" loading="lazy"/>
+  <img src="https://i.imgur.com/rKp1zBl.gif" width="420" alt="Matrix Cat Animation" loading="lazy"/>
 </p>
 
 ---
