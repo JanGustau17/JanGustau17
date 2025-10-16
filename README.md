@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/JanGustau17/JanGustau17/main/assets/matrix.gif" width="420" alt="Matrix Animation"/>
+  ![Matrix Animation](https://raw.githubusercontent.com/JanGustau17/JanGustau17/main/assets/matrix.gif)
 </p>
 
 ---
