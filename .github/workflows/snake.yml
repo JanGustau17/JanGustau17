@@ -1,0 +1,29 @@
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # runs every midnight UTC
+  workflow_dispatch:      # allows manual runs
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Generate the snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: JanGustau17
+          outputs: dist/github-contribution-grid-snake.svg
+          snake_color: "#00FFFF"
+          background_color: "#0A0A0A"
+
+      - name: Push the snake
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
