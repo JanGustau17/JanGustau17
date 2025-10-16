@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/JanGustau17/JanGustau17/main/assets/matrix.gif" width="420" alt="Matrix Animation" loading="lazy" />
+  <img src="https://i.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy.gif"
+       alt="Matrix cat" width="420" loading="lazy">
 </p>
 
 <!-- <h1 align="center">Mukhammadali Yuldoshev (Ali)</h1>
