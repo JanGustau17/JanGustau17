@@ -1,6 +1,5 @@
 <p align="center">
-  <img src="https://i.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy.gif"
-       alt="Matrix cat" width="420" loading="lazy">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=520&lines=Cybersecurity+Student+%40+John+Jay;AI+x+Security;Always+learning" alt="typing animation" />
 </p>
 
 <!-- <h1 align="center">Mukhammadali Yuldoshev (Ali)</h1>
