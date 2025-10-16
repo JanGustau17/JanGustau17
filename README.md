@@ -1,4 +1,4 @@
-<h1 align="center">Hey there 👋, I'm Ali</h1>
+<h1 align="center">Hey there 👋, I'm Mukhammadali (Ali)</h1>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Cybersecurity+Student+%40+John+Jay;AI+%2B+Security+Research;Building+Tools+That+Defend" alt="Typing SVG" />
 </p>
@@ -23,7 +23,6 @@
   <img src="https://img.shields.io/badge/SQL-1F6FEB?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
 </p>
 
 <p align="center">
@@ -54,5 +53,5 @@
 ---
 
 ### 🌐 Connect with Me
-📫 **Reach me at:** [LinkedIn](https://linkedin.com/in/mukhammadali-yuldoshev)  
-⚡ **Fun fact:** I learn faster when debugging than when reading docs 😄
+📫 **Reach me on**  
+[![LinkedIn Badge](https://img.shields.io/badge/-Mukhammadali%20Yuldoshev-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://linkedin.com/in/mukhammadali-yuldoshev)
