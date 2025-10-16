@@ -1,11 +1,11 @@
-<h1 align="center">Hey there, I'm Mukhammadali (Ali)</h1>
+<h1 align="center">Mukhammadali Yuldoshev (Ali)</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=36BCF7&center=true&vCenter=true&width=520&lines=AI+%2B+Security+Research;Building+Tools+That+Defend" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy.gif" width="420" alt="Matrix Cat Animation"/>
+  <img src="https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy.gif" width="420" alt="Matrix Cat Animation" loading="lazy"/>
 </p>
 
 ---
@@ -31,9 +31,6 @@
 
 ### 🌐 Connect with Me
 <p align="center">
-  <a href="https://linkedin.com/in/mukhammadali-yuldoshev" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
   <a href="https://linkedin.com/in/mukhammadali-yuldoshev" target="_blank">
     <img src="https://img.shields.io/badge/Mukhammadali%20Yuldoshev-blue?style=for-the-badge" alt="Name Badge"/>
   </a>
