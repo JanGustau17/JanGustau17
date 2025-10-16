@@ -4,8 +4,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=36BCF7&center=true&vCenter=true&width=520&lines=AI+%2B+Security+Research;Building+Tools+That+Defend" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy.gif" width="420" alt="Matrix Cat Animation" loading="lazy"/>
+<<p align="center">
+  <img src="https://github.com/JanGustau17/JanGustau17/blob/main/assets/matrix.gif?raw=true" width="420" alt="Matrix Cat Animation" loading="lazy"/>
 </p>
 
 ---
