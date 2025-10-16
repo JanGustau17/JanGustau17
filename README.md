@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy.gif" width="420" alt="Matrix Cat Animation"/>
+  <img src="https://raw.githubusercontent.com/JanGustau17/JanGustau17/main/assets/matrix.gif" width="420" alt="Matrix Animation"/>
 </p>
 
 ---
