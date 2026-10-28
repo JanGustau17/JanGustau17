@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="250" viewBox="0 0 900 250" role="img" aria-label="Animated terminal: Mukhammadali Yuldoshev, CS at John Jay College, focused on cybersecurity and AI/ML">
+<defs>
+<linearGradient id="edge" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#3fb950"/><stop offset="0.5" stop-color="#58a6ff"/><stop offset="1" stop-color="#bc8cff"/><animateTransform attributeName="gradientTransform" type="rotate" from="0 0.5 0.5" to="360 0.5 0.5" dur="9s" repeatCount="indefinite"/></linearGradient>
+<linearGradient id="scan" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#58a6ff" stop-opacity="0"/><stop offset="0.5" stop-color="#58a6ff" stop-opacity="0.10"/><stop offset="1" stop-color="#58a6ff" stop-opacity="0"/></linearGradient>
+<clipPath id="win"><rect x="10" y="10" width="880" height="230" rx="12"/></clipPath>
+</defs>
+<style>text{font-family:"JetBrains Mono","Fira Code",Consolas,Menlo,"DejaVu Sans Mono",monospace;font-size:18px}</style>
+<rect x="10" y="10" width="880" height="230" rx="12" fill="#0b1220" stroke="url(#edge)" stroke-width="2"/>
+<g clip-path="url(#win)">
+<rect x="10" y="10" width="880" height="34" fill="#111a2b"/>
+<circle cx="34" cy="27" r="6" fill="#ff5f56"/><circle cx="54" cy="27" r="6" fill="#ffbd2e"/><circle cx="74" cy="27" r="6" fill="#27c93f"/>
+<text x="450" y="32" text-anchor="middle" fill="#6e7681" style="font-size:13px">mukhammadali@jangustau17: ~</text>
+<circle cx="858" cy="27" r="4" fill="#3fb950"><animate attributeName="opacity" values="1;0.25;1" dur="2s" repeatCount="indefinite"/></circle>
+<text x="848" y="31" text-anchor="end" fill="#6e7681" style="font-size:12px">online</text>
+<text x="44" y="88" textLength="86.4" lengthAdjust="spacing" xml:space="preserve"><tspan fill="#3fb950">$ </tspan><tspan fill="#c9d1d9">whoami</tspan></text>
+<rect x="42" y="68" width="94.4" height="28" fill="#0b1220"><animate attributeName="x" values="42;42;134.4;134.4;42;42" keyTimes="0;0.03;0.1;0.94;0.97;1" dur="16s" repeatCount="indefinite"/><animate attributeName="width" values="94.4;94.4;0;0;94.4;94.4" keyTimes="0;0.03;0.1;0.94;0.97;1" dur="16s" repeatCount="indefinite"/></rect>
+<g><animate attributeName="opacity" values="1;0" keyTimes="0;0.5" calcMode="discrete" dur="1s" repeatCount="indefinite"/><rect x="44" y="71" width="10" height="22" fill="#c9d1d9" opacity="0"><animate attributeName="opacity" values="0;1;0;0" keyTimes="0;0.03;0.13;1" calcMode="discrete" dur="16s" repeatCount="indefinite"/><animate attributeName="x" values="44;44;130.4;130.4" keyTimes="0;0.03;0.1;1" dur="16s" repeatCount="indefinite"/></rect></g>
+<text x="44" y="118" textLength="604.8" lengthAdjust="spacing" fill="#58a6ff" xml:space="preserve">Mukhammadali Yuldoshev  //  CS @ John Jay College (CUNY)</text>
+<rect x="42" y="98" width="612.8" height="28" fill="#0b1220"><animate attributeName="x" values="42;42;652.8;652.8;42;42" keyTimes="0;0.13;0.32;0.94;0.97;1" dur="16s" repeatCount="indefinite"/><animate attributeName="width" values="612.8;612.8;0;0;612.8;612.8" keyTimes="0;0.13;0.32;0.94;0.97;1" dur="16s" repeatCount="indefinite"/></rect>
+<g><animate attributeName="opacity" values="1;0" keyTimes="0;0.5" calcMode="discrete" dur="1s" repeatCount="indefinite"/><rect x="44" y="101" width="10" height="22" fill="#c9d1d9" opacity="0"><animate attributeName="opacity" values="0;1;0;0" keyTimes="0;0.13;0.37;1" calcMode="discrete" dur="16s" repeatCount="indefinite"/><animate attributeName="x" values="44;44;648.8;648.8" keyTimes="0;0.13;0.32;1" dur="16s" repeatCount="indefinite"/></rect></g>
+<text x="44" y="160" textLength="162" lengthAdjust="spacing" xml:space="preserve"><tspan fill="#3fb950">$ </tspan><tspan fill="#c9d1d9">cat focus.txt</tspan></text>
+<rect x="42" y="140" width="170" height="28" fill="#0b1220"><animate attributeName="x" values="42;42;210;210;42;42" keyTimes="0;0.37;0.47;0.94;0.97;1" dur="16s" repeatCount="indefinite"/><animate attributeName="width" values="170;170;0;0;170;170" keyTimes="0;0.37;0.47;0.94;0.97;1" dur="16s" repeatCount="indefinite"/></rect>
+<g><animate attributeName="opacity" values="1;0" keyTimes="0;0.5" calcMode="discrete" dur="1s" repeatCount="indefinite"/><rect x="44" y="143" width="10" height="22" fill="#c9d1d9" opacity="0"><animate attributeName="opacity" values="0;1;0;0" keyTimes="0;0.37;0.5;1" calcMode="discrete" dur="16s" repeatCount="indefinite"/><animate attributeName="x" values="44;44;206;206" keyTimes="0;0.37;0.47;1" dur="16s" repeatCount="indefinite"/></rect></g>
+<text x="44" y="190" textLength="572.4" lengthAdjust="spacing" fill="#7ee787" xml:space="preserve">cybersecurity  .  ai/ml  .  building things that work</text>
+<rect x="42" y="170" width="580.4" height="28" fill="#0b1220"><animate attributeName="x" values="42;42;620.4;620.4;42;42" keyTimes="0;0.5;0.69;0.94;0.97;1" dur="16s" repeatCount="indefinite"/><animate attributeName="width" values="580.4;580.4;0;0;580.4;580.4" keyTimes="0;0.5;0.69;0.94;0.97;1" dur="16s" repeatCount="indefinite"/></rect>
+<g><animate attributeName="opacity" values="1;0" keyTimes="0;0.5" calcMode="discrete" dur="1s" repeatCount="indefinite"/><rect x="44" y="173" width="10" height="22" fill="#c9d1d9" opacity="0"><animate attributeName="opacity" values="0;1;0;0" keyTimes="0;0.5;0.74;1" calcMode="discrete" dur="16s" repeatCount="indefinite"/><animate attributeName="x" values="44;44;616.4;616.4" keyTimes="0;0.5;0.69;1" dur="16s" repeatCount="indefinite"/></rect></g>
+<text x="44" y="232" fill="#3fb950" opacity="0">$<animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.74;0.94;0.97;1" calcMode="discrete" dur="16s" repeatCount="indefinite"/></text>
+<g><animate attributeName="opacity" values="1;0" keyTimes="0;0.5" calcMode="discrete" dur="1s" repeatCount="indefinite"/><rect x="65.6" y="215" width="10" height="22" fill="#c9d1d9" opacity="0"><animate attributeName="opacity" values="0;1;0;0" keyTimes="0;0.74;0.94;1" calcMode="discrete" dur="16s" repeatCount="indefinite"/><animate attributeName="x" values="65.6;65.6;65.6;65.6" keyTimes="0;0.74;0.76;1" dur="16s" repeatCount="indefinite"/></rect></g>
+<rect x="10" y="-60" width="880" height="60" fill="url(#scan)"><animate attributeName="y" values="-60;260" dur="5s" repeatCount="indefinite"/></rect>
+</g>
+</svg>
